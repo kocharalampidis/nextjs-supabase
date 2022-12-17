@@ -1,6 +1,6 @@
 ## Project set up
 
-# initialize project
+# Initialize project
 
 npx create-next-app@latest --ts --use-npm supabase-nextjs
 cd supabase-nextjs
