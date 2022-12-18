@@ -20,7 +20,12 @@ const Login = () => {
     signIn();
   }, []);
 
-  return <div>Login Page</div>;
+  return (
+    <div>
+      Login Page
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    </div>
+  );
 };
 
 export default Login;
